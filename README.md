@@ -14,6 +14,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Home SOC LAB (In Progress)
 
-- **[SOC Analyst Environment)](https://github.com/acostaea3/)**
+- **[SOC Analyst Environment](https://github.com/acostaea3/SOC-Lab)**
 
 <hr/>
