@@ -5,11 +5,15 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation]()**
+- **[Vulnerability Management Program Implementation](https://github.com/acostaea3/Threat-Hunting-Lab)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/acostaea3/Threat-Hunting-Lab)**
+
+## 🚨 Home SOC LAB (In Progress)
+
+- **[SOC Analyst Environment)](https://github.com/acostaea3/)**
 
 <hr/>
