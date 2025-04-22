@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Security Operations
 
-- **[Incident Response (Microsoft Sentinel)](https://github.com/acostaea3/Incident Response)**
+- **[Incident Response (Microsoft Sentinel)](https://github.com/acostaea3/Incident-Response)**
 
 ## 🚨 Home SOC LAB (In Progress)
 
