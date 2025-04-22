@@ -8,9 +8,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/acostaea3/Vulnerability-Management-Project)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/acostaea3/Threat-Hunting-Lab)**
+- **[Incident Response (Microsoft Sentinel)](https://github.com/acostaea3/Incident Response)**
 
 ## 🚨 Home SOC LAB (In Progress)
 
