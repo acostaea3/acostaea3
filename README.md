@@ -15,4 +15,3 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[SOC Analyst Environment](https://github.com/acostaea3/SOC-Lab)**
 
-<hr/>
