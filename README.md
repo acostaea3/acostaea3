@@ -1,7 +1,6 @@
 # <a href="https://www.linkedin.com/in/acostaea3/">Edwin Acosta</a>'s Project Portfolio 
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
+I'm an IT professional with 4+ years of experience providing technical support in legal environments, currently expanding my skill set into cybersecurity. I’m passionate about threat detection, system hardening, and hands-on problem-solving. My recent work includes vulnerability management and incident response projects using tools like Tenable.io, Microsoft Sentinel, and Defender for Endpoint.
 
 ## Vulnerability Management Projects
 
